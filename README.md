@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samip</h1>
-![Bnner image for Samip-Dev](https://github.com/Samip-Developer/Samip-Developer/blob/main/Banner.png?raw=true)
+![Bnner image for Samip-Dev](https://raw.githubusercontent.com/Samip-Developer/Samip-Developer/main/Banner.png)
 <h3 align="center">A passionate full stack developer from Nepal</h3>
 
 <h3 align="left">Connect with me:</h3>
